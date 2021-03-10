@@ -677,7 +677,7 @@ footer p {
   footer .social {
     padding: 1rem 0;
   }
-  footer ul {
+  footer .footer-container ul {
     display: none;
   }
 
