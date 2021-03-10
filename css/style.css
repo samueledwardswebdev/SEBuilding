@@ -674,6 +674,13 @@ footer p {
   font-size: 1.5rem;
   }
 
+  footer .social {
+    padding: 1rem 0;
+  }
+  footer ul {
+    display: none;
+  }
+
 }
 
 
